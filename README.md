@@ -7,7 +7,7 @@ I'm passionate about building full-stack products that have a real impact. Check
 ## 🧑‍💻 About Me
 
 - 🎓 CS + Finance Minor @ UIC — Expected Graduation May 2027
-- 💼 Software Engineer @ UIC Student Affairs Technology 
+- 💼 Software Engineer @ UIC Student Affairs Technology - Building a Locker Reservation System (LRS)
 - 🤖 Currently searching for opportunities to intersect full-stack development with AI
 
 ---
@@ -48,13 +48,6 @@ I'm passionate about building full-stack products that have a real impact. Check
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvtp05&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtp05&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
