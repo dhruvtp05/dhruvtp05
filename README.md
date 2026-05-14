@@ -1,6 +1,6 @@
 # Hey, I'm Dhruv Patel 👋
 
-I'm passionate about building full-stack products that have a real impact. Check my pinned projects!
+I'm passionate about building products that have a real impact. Check my pinned projects!
 
 ---
 
