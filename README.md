@@ -2,9 +2,9 @@
 I'm passionate about building products that have a real impact. Check my pinned projects!
 ---
 ## 🧑‍💻 About Me
-- 🎓 CS + Finance Minor @ UIC — Expected Graduation May 2027
+- 🎓 CS + Finance Minor @ UIC — Expected Graduation Dec 2028
 - 💼 Software Engineer @ UIC Student Affairs Technology - Building a Locker Reservation System (LRS)
-- 🤖 Currently searching for Software Engineering internships for summer 2026 and fall 2026
+- 🤖 Currently searching for Software Engineering internships for Spring 2027 and Summer 2027
 ---
 ## 🛠️ Tech Stack
 ### Languages
