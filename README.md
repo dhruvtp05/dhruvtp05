@@ -1,6 +1,4 @@
 # Hey, I'm Dhruv Patel 👋
-I'm passionate about building real impact. Check my pinned projects!
----
 ## 🧑‍💻 About Me
 - 🎓 CS + Finance Minor @ UIC — Expected Graduation Dec 2027
 - 💼 Software Engineer @ UIC Student Affairs Technology
