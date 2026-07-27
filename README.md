@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 - 🎓 CS + Finance Minor @ UIC — Expected Graduation Dec 2027
 - 💼 Software Engineer @ UIC Student Affairs Technology
-- 🤖 Currently searching for Software Engineering internships for Spring 2027 and Summer 2027
+- 🤖 Currently searching for Software Engineering internships
 
 ---
 
