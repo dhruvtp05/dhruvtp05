@@ -1,10 +1,10 @@
 # Hey, I'm Dhruv Patel 👋
 ## 🧑‍💻 About Me
-- 🎓 CS + Finance Minor @ UIC — Expected Graduation Dec 2027
-- 💼 Software Engineer @ UIC Student Affairs Technology
-- 🤖 Currently searching for Software Engineering internships
+- CS + Finance Minor @ UIC — Expected Graduation Dec 2027
+- Software Engineer @ UIC Student Affairs Technology
+- Currently searching for Software Engineering internships
 ---
-## 🛠️ Tech Stack
+##  Tech Stack 🛠️
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
