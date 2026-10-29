@@ -2,6 +2,7 @@
 ## 🧑‍💻 About Me
 - CS + Finance Minor @ UIC — Expected Graduation Dec 2027
 - Software Engineer @ UIC Student Affairs Technology
+- Incoming @ Northern Trust
 ---
 ##  Tech Stack 🛠️
 ### Languages
