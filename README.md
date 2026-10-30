@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white" alt="NUnit">
+  <img src="https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge" alt="NUnit">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
